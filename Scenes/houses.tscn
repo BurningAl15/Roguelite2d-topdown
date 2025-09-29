@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://b152ovjx8o8av"]
+
+[ext_resource type="PackedScene" uid="uid://c30fgk532tbln" path="res://Scenes/house.tscn" id="1_ypegp"]
+
+[node name="Houses" type="Node2D"]
+
+[node name="House" parent="." instance=ExtResource("1_ypegp")]
+position = Vector2(-150, -270)
+
+[node name="House2" parent="." instance=ExtResource("1_ypegp")]
+position = Vector2(-201, 328)

@@ -1,0 +1,172 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwbu4gkt4axo1"]
+
+[ext_resource type="PackedScene" uid="uid://oo3d4xet7xxv" path="res://Scenes/collidable_tree.tscn" id="1_bdh2f"]
+
+[node name="Trees" type="Node2D"]
+
+[node name="CollidableTree5" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(85, 273)
+
+[node name="CollidableTree9" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(-19, -22)
+
+[node name="CollidableTree8" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(-56, 287)
+
+[node name="CollidableTree6" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(411, 108)
+
+[node name="CollidableTree10" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(351, 104)
+
+[node name="CollidableTree11" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 6
+position = Vector2(436, 173)
+
+[node name="CollidableTree21" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(380, 167)
+
+[node name="CollidableTree12" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 6
+position = Vector2(319, 167)
+
+[node name="CollidableTree13" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 7
+position = Vector2(407, 221)
+
+[node name="CollidableTree15" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(472, 118)
+
+[node name="CollidableTree16" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(503, 171)
+
+[node name="CollidableTree17" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(472, 224)
+
+[node name="CollidableTree18" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(526, 110)
+
+[node name="CollidableTree41" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(375, 49)
+
+[node name="CollidableTree42" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(315, 45)
+
+[node name="CollidableTree45" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(354, 2)
+
+[node name="CollidableTree46" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(407, -7)
+
+[node name="CollidableTree47" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 7
+position = Vector2(376, -46)
+
+[node name="CollidableTree48" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(434, -54)
+
+[node name="CollidableTree49" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(466, -5)
+
+[node name="CollidableTree43" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(436, 59)
+
+[node name="CollidableTree44" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(490, 51)
+
+[node name="CollidableTree19" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(558, 181)
+
+[node name="CollidableTree20" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(527, 231)
+
+[node name="CollidableTree14" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 7
+position = Vector2(342, 216)
+
+[node name="CollidableTree22" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(260, 61)
+
+[node name="CollidableTree23" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 6
+position = Vector2(263, 156)
+
+[node name="CollidableTree24" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 7
+position = Vector2(263, 210)
+
+[node name="CollidableTree25" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(218, 104)
+
+[node name="CollidableTree26" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 5
+position = Vector2(191, 155)
+
+[node name="CollidableTree27" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 6
+position = Vector2(211, 200)
+
+[node name="CollidableTree28" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(452, 272)
+
+[node name="CollidableTree29" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(393, 270)
+
+[node name="CollidableTree30" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(325, 265)
+
+[node name="CollidableTree37" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(276, 259)
+
+[node name="CollidableTree39" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 7
+position = Vector2(204, 258)
+
+[node name="CollidableTree31" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(365, 296)
+
+[node name="CollidableTree32" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(537, 286)
+
+[node name="CollidableTree33" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(492, 300)
+
+[node name="CollidableTree34" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(570, 260)
+
+[node name="CollidableTree36" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(294, 308)
+
+[node name="CollidableTree35" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(196, 350)
+
+[node name="CollidableTree38" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(253, 349)
+
+[node name="CollidableTree40" parent="." instance=ExtResource("1_bdh2f")]
+z_index = 8
+position = Vector2(224, 303)
+
+[node name="CollidableTree7" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(-459, 266)
+
+[node name="CollidableTree" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(-458, 79)
+
+[node name="CollidableTree2" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(87, 187)
+
+[node name="CollidableTree3" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(18, 77)
+
+[node name="CollidableTree4" parent="." instance=ExtResource("1_bdh2f")]
+position = Vector2(-365, -23)
